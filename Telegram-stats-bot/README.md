@@ -28,7 +28,7 @@ docker-compose up --build --detach
 
 **The MIT License (MIT)**
 
-Copyright © 2018 ExtremeCode GANG
+Copyright © celldweller
 
 ```Raime (@celldweller)```
 
